@@ -1,8 +1,5 @@
 ## English
 
- tested on manjaro linux
-use "lua zapret-cli.lua"
-
 [Manual](manual.en.md)
 
 ## Зачем это нужно
