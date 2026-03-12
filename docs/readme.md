@@ -2,6 +2,8 @@
 
 ## English
 
+Tested on Manjaro Linux
+
 Download and use "lua zapret-cli.lua" 
 
 [Manual](manual.en.md)
