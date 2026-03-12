@@ -1,4 +1,8 @@
+
+
 ## English
+
+Download and use "lua zapret-cli.lua" 
 
 [Manual](manual.en.md)
 
